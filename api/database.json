@@ -1,0 +1,69 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "London",
+      "visa_required": false
+    },
+    {
+      "id": 2,
+      "name": "Paris",
+      "visa_required": true
+    },
+    {
+      "id": 3,
+      "name": "Berlin",
+      "visa_required": false
+    }
+  ],
+  "interests": [
+    {
+      "placeId": 4,
+      "name": "Berlin",
+      "description": "enjoyed my stay in Berlin",
+      "cost": "$2599",
+      "currentLocation": "Paris"
+    },
+    {
+      "placeId": 5,
+      "name": "dek",
+      "description": "dek",
+      "cost": "test",
+      "currentLocation": "Paris",
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "name": "",
+      "description": "",
+      "cost": "",
+      "currentLocation": "London",
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "name": "fd",
+      "description": "gdg",
+      "cost": "gd",
+      "currentLocation": "Berlin",
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "name": "test",
+      "description": "test",
+      "cost": "test",
+      "currentLocation": "London",
+      "id": 26
+    }
+  ]
+}
